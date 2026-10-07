@@ -79,7 +79,7 @@
 - AI được dùng để làm gì: Hỏi đáp tư vấn sức khỏe, chẩn đoán triệu chứng (chóng mặt tái phát và đau vùng bẹn).
 - Vấn đề hoặc sự kiện đáng chú ý: ChatGPT đưa ra chẩn đoán sai, khuyên người bệnh ở nhà nghỉ ngơi, hạn chế vận động và khẳng định triệu chứng không nguy hiểm, đồng thời dùng ngôn ngữ tôn giáo ("Chúa không thiết kế cơ thể bạn để nó suy sụp vô tận") để củng cố niềm tin. Hậu quả là bệnh nhân phớt lờ lời khuyên đi khám của người nhà, trì hoãn đi cấp cứu và sau đó nhập viện trong tình trạng nguy kịch.
 - Số liệu có nguồn: 1 ngày sau cuộc trò chuyện với AI, bệnh nhân phải nhập viện cấp cứu khẩn cấp với bệnh lý thuyên tắc phổi (theo đơn kiện nộp ngày 22/7/2026).
-- Nguồn: Bài viết "Mục sư tại Mỹ kiện OpenAI vì lời khuyên y tế của ChatGPT" — Báo Dân trí — 23/07/2026 — https://dantri.com.vn
+- Nguồn: Bài viết "Mục sư tại Mỹ kiện OpenAI vì lời khuyên y tế của ChatGPT" — Báo Dân trí — 23/07/2026 — [dantri.com.vn/the-gioi/muc-su-my-suyt-chet-vi-nghe-loi-khuyen-y-te-tu-chatgpt-20260723120920715.htm](https://dantri.com.vn/the-gioi/muc-su-my-suyt-chet-vi-nghe-loi-khuyen-y-te-tu-chatgpt-20260723120920715.htm)
 - Phân biệt bằng chứng và nhận định: Bằng chứng: Đơn kiện có lịch sử trò chuyện (AI khuyên hạn chế vận động) và bệnh án nhập viện (thuyên tắc phổi). Nhận định: Bác sĩ nhận định việc ít vận động theo gợi ý của AI có khả năng đã làm tình trạng nghiêm trọng hơn; OpenAI nhận định rằng quy trách nhiệm y tế hoàn toàn cho chatbot là cách nhìn đơn giản hóa.
 
 #### Harm Map Worksheet
